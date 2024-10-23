@@ -94,4 +94,4 @@ By understanding the key variables influencing loan defaults, the company can en
 - Seaborn
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Saurabh - feel free to contact me!
